@@ -177,6 +177,21 @@ let info = {
         "This project implements a MultiLevel Cache simulator to simulate a two level cache model. L1 miss traces are generated for spec CPU files, and then these traces are passed through the simulator to simulate the behaviour of L2 and L3 cache "
     },
     {
+      name: "Parallel Computing with MPI",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/noq/mpi.jpg")
+        },
+      ],
+      technologies: ["MPI", "Parallel Porgramming"],
+      category: "High Performance Computing",
+      date: "Jan 2021 - May 2020",
+      github: "https://github.com/aggarwal-shivam/Parallel-Computing-with-MPI",
+      visit: "https://github.com/aggarwal-shivam/Parallel-Computing-with-MPI",
+      description:
+        "This repository is the collection of all the Assignments completed in the course CS633-Parallel-Computing at IIT Kanpur. All assignments are done in the Message Passing Interface (MPI) paradigm for parallel computing."
+    },
+    {
       name: "Trace generation and analysis for Multi threaded programs",
       pictures: [
         {
