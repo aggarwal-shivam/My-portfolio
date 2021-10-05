@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "Hi there, I am a Final year M.Tech student in the Computer Science Department at IIT Kanpur. <br> I am interested in the Artificial Intelligence, High Performance Computing and Software Development. I have indepth knowledge of Core CS subjects and Programming.<br> Currently I am working on my thesis, 'Active Learning based Performance Prediction' under the supervision of Prof. Preeti Malakar. <br> I am open to work opportunities related to Software Development and Machine Learning.",
+    "I am a Final year M.Tech student in the Computer Science Department at IIT Kanpur. I am interested in the Artificial Intelligence, High Performance Computing and Software Development. I have indepth knowledge of Core CS subjects and Programming.<br><br> Currently I am working on my thesis, 'Active Learning based Performance Prediction' under the supervision of Prof. Preeti Malakar. <br> I am open to work opportunities related to Software Development and Machine Learning.",
   links: {
     linkedin: "https://www.linkedin.com/in/shivam-aggarwal-a02673140/",
     github: "https://github.com/aggarwal-shivam",
