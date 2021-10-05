@@ -9,12 +9,12 @@ let info = {
     }
   },
   description:
-    "A final year M.Tech student at IIT Kanpur in the Computer Science and Engineering Department with an interest in Artificial Intelligence, High Performance Computing and Software Developement - and seeking opportunities related to the same.<br><br>Currently I am working on the topic 'Performance prediction of MPI codes' for my thesis, under the supervision of Dr. Preeti Malakar at IIT Kanpur. Other than this I am exploring the area of Reinforcement Learning under the AI.",
+    "Hi there, I am a Final year M.Tech student in the Computer Science Department at IIT Kanpur. <br> I am interested in the Artificial Intelligence, High Performance Computing and Software Development. I have indepth knowledge of Core CS subjects and Programming.<br> Currently I am working on my thesis, 'Active Learning based Performance Prediction' under the supervision of Prof. Preeti Malakar. <br> I am open to work opportunities related to Software Development and Machine Learning.",
   links: {
     linkedin: "https://www.linkedin.com/in/shivam-aggarwal-a02673140/",
     github: "https://github.com/aggarwal-shivam",
     resume:
-      "https://github.com/aggarwal-shivam/aggarwal-shivam.github.io/blob/main/assets/resume.pdf"
+      "https://drive.google.com/file/d/1n8nJSxMbOhHai7WCtLucyRLz2bsvMT4K/view?usp=sharing"
   },
   education: [
     {
@@ -108,7 +108,8 @@ let info = {
         "Ubuntu",
         "Windows",
         "VS Code",
-        "Github"
+        "Github",
+        "LaTex"
         // "Android",
         // "Agile",
         // "Scrum",
